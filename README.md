@@ -26,7 +26,7 @@ Distance Matrix:
 
 > Ants are colonizing...<br/><br/>
   Epoch: [##################################################] 100/100<br/><br/>
-> Ants found their way !<br/><br/>
+> Ants found their way !<br/>
 
 Best paths:<br/>
 Path: 0 9 6 8 3 4 1 7 5 2, Distance: 98.85<br/>

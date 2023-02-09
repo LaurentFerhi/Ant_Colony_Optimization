@@ -28,17 +28,17 @@ Distance Matrix:
   Epoch: [##################################################] 100/100<br/><br/>
 > Ants found their way !<br/><br/>
 
-Best paths:
-Path: 0 9 6 8 3 4 1 7 5 2, Distance: 98.85
-Path: 0 9 4 1 7 5 2 8 3 6, Distance: 99.19
-Path: 0 9 6 7 5 2 8 3 4 1, Distance: 105.01
-Path: 0 9 6 1 7 5 2 8 3 4, Distance: 105.20
-Path: 0 9 5 2 8 3 4 1 7 6, Distance: 106.03
-Path: 0 9 5 7 6 8 3 4 1 2, Distance: 110.21
-Path: 0 9 6 8 2 7 5 1 4 3, Distance: 112.02
-Path: 0 9 6 1 4 8 3 7 5 2, Distance: 112.71
-Path: 0 9 5 2 8 3 6 7 1 4, Distance: 113.04
-Path: 0 9 8 3 4 1 7 5 2 6, Distance: 121.30
-Path: 0 9 5 2 8 3 6 1 4 7, Distance: 122.90
-Path: 0 9 6 8 2 1 7 5 3 4, Distance: 128.96
+Best paths:<br/>
+Path: 0 9 6 8 3 4 1 7 5 2, Distance: 98.85<br/>
+Path: 0 9 4 1 7 5 2 8 3 6, Distance: 99.19<br/>
+Path: 0 9 6 7 5 2 8 3 4 1, Distance: 105.01<br/>
+Path: 0 9 6 1 7 5 2 8 3 4, Distance: 105.20<br/>
+Path: 0 9 5 2 8 3 4 1 7 6, Distance: 106.03<br/>
+Path: 0 9 5 7 6 8 3 4 1 2, Distance: 110.21<br/>
+Path: 0 9 6 8 2 7 5 1 4 3, Distance: 112.02<br/>
+Path: 0 9 6 1 4 8 3 7 5 2, Distance: 112.71<br/>
+Path: 0 9 5 2 8 3 6 7 1 4, Distance: 113.04<br/>
+Path: 0 9 8 3 4 1 7 5 2 6, Distance: 121.30<br/>
+Path: 0 9 5 2 8 3 6 1 4 7, Distance: 122.90<br/>
+Path: 0 9 6 8 2 1 7 5 3 4, Distance: 128.96<br/>
 
